@@ -28,40 +28,40 @@
     <Row>
         <Key android:codes="113" android:keyLabel="q" android:keyEdgeFlags="left"/>
         <Key android:codes="119" android:keyLabel="w"/>
-        <Key android:codes="101" android:keyLabel="e"/>
-        <Key android:codes="114" android:keyLabel="r"/>
-        <Key android:codes="116" android:keyLabel="t"/>
-        <Key android:codes="121" android:keyLabel="y"/>
-        <Key android:codes="117" android:keyLabel="u"/>
-        <Key android:codes="105" android:keyLabel="i"/>
-        <Key android:codes="111" android:keyLabel="o"/>
-        <Key android:codes="112" android:keyLabel="p" android:keyEdgeFlags="right"/>
+        <Key android:codes="151" android:keyLabel="ק"/>
+        <Key android:codes="152" android:keyLabel="ר"/>
+        <Key android:codes="128" android:keyLabel="א"/>
+        <Key android:codes="136" android:keyLabel="ט"/>
+        <Key android:codes="133" android:keyLabel="ו"/>
+        <Key android:codes="143" android:keyLabel="ן"/>
+        <Key android:codes="141" android:keyLabel="ם"/>
+        <Key android:codes="148" android:keyLabel="פ" android:keyEdgeFlags="right"/>
     </Row>
     
     <Row>
         <Key android:codes="97" android:keyLabel="a" android:horizontalGap="5%p" 
                 android:keyEdgeFlags="left"/>
-        <Key android:codes="115" android:keyLabel="s"/>
-        <Key android:codes="100" android:keyLabel="d"/>
-        <Key android:codes="102" android:keyLabel="f"/>
-        <Key android:codes="103" android:keyLabel="g"/>
-        <Key android:codes="104" android:keyLabel="h"/>
-        <Key android:codes="106" android:keyLabel="j"/>
-        <Key android:codes="107" android:keyLabel="k"/>
-        <Key android:codes="108" android:keyLabel="l" android:keyEdgeFlags="right"/>
+        <Key android:codes="131" android:keyLabel="ד"/>
+        <Key android:codes="130" android:keyLabel="ג"/>
+        <Key android:codes="139" android:keyLabel="כ"/>
+        <Key android:codes="146" android:keyLabel="ע"/>
+        <Key android:codes="137" android:keyLabel="י"/>
+        <Key android:codes="135" android:keyLabel="ח"/>
+        <Key android:codes="140" android:keyLabel="ל"/>
+        <Key android:codes="138" android:keyLabel="ך" android:keyEdgeFlags="right"/>
     </Row>
     
     <Row>
         <Key android:codes="-1" android:keyIcon="@drawable/sym_keyboard_shift" 
                 android:keyWidth="15%p" android:isModifier="true"
                 android:isSticky="true" android:keyEdgeFlags="left"/>
-        <Key android:codes="122" android:keyLabel="z"/>
-        <Key android:codes="120" android:keyLabel="x"/>
-        <Key android:codes="99" android:keyLabel="c"/>
-        <Key android:codes="118" android:keyLabel="v"/>
-        <Key android:codes="98" android:keyLabel="b"/>
-        <Key android:codes="110" android:keyLabel="n"/>
-        <Key android:codes="109" android:keyLabel="m"/>
+        <Key android:codes="134" android:keyLabel="ז"/>
+        <Key android:codes="145" android:keyLabel="ס"/>
+        <Key android:codes="129" android:keyLabel="ב"/>
+        <Key android:codes="132" android:keyLabel="ה"/>
+        <Key android:codes="144" android:keyLabel="נ"/>
+        <Key android:codes="142" android:keyLabel="מ"/>
+        <Key android:codes="150" android:keyLabel="צ"/>
         <Key android:codes="-5" android:keyIcon="@drawable/sym_keyboard_delete" 
                 android:keyWidth="15%p" android:keyEdgeFlags="right"
                 android:isRepeatable="true"/>
