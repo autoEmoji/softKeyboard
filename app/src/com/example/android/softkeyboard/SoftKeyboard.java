@@ -709,7 +709,12 @@ public class SoftKeyboard extends InputMethodService
         handleClose();
     }
 
+
     public void swipeUp() {
+        for (int i = 0; i < 0; i++)
+        {
+            i = i;
+        }
     }
     
     public void onPress(int primaryCode) {
